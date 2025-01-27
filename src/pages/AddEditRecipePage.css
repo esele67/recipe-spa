@@ -1,9 +1,0 @@
-.add-edit-recipe-page {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
-  
-  .main-content {
-    padding: 1rem;
-  }
